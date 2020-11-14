@@ -1,0 +1,7 @@
+numpy==1.19.4
+scikit-learn==0.23.2
+torch==1.7.0
+sympy==1.6.2
+matplotlib==3.3.3
+git+https://github.com/wannesm/PySDD.git
+git+https://github.com/lucadiliello/semantic-loss-pytorch.git
